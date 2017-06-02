@@ -1,0 +1,21 @@
+{
+    "name": "apacheservices68/req",
+    "description": "custom json web token create by apacheservices68",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vinh Banh",
+            "email": "apacheservices68@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "req": "src/"
+        }
+    }
+}
